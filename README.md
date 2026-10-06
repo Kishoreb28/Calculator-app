@@ -35,3 +35,4 @@ Open `tests/tests.html`. It shows PASS/FAIL for each test.
 | `tests/tests.js` | Unit tests, shared by browser and CI |
 | `tests/tests.html` | Runs the tests in a browser |
 | `.github/workflows/ci.yml` | The CI pipeline |
+|
